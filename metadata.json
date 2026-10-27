@@ -1,0 +1,6 @@
+{
+  "name": "Shree Krishna Construction - Site & Labor Manager",
+  "description": "Mobile-friendly multi-site attendance, labor wage calculations, weekly Monday payment sheets, and client payment tracker for construction contractors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
